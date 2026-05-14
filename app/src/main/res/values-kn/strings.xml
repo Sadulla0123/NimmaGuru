@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ನಿಮ್ಮ-ಗುರು</string>
+    <string name="tagline">ಜ್ಞಾನ-ದಾನಕ್ಕಾಗಿ ಸಮುದಾಯ ಮಾರ್ಗದರ್ಶನ</string>
+    <string name="language_toggle">English</string>
+    <string name="directory">ಗುರುಗಳ ಪಟ್ಟಿ</string>
+    <string name="search_hint">ಗ್ರಾಮ ಅಥವಾ ಬೀದಿ</string>
+    <string name="wall_of_fame">ಗೌರವ ಫಲಕ</string>
+    <string name="class_calendar">ತರಗತಿ ಕ್ಯಾಲೆಂಡರ್</string>
+    <string name="appreciation_wall">ಕೃತಜ್ಞತಾ ಗೋಡೆ</string>
+    <string name="post_appreciation">ಕೃತಜ್ಞತೆ ಪೋಸ್ಟ್ ಮಾಡಿ</string>
+    <string name="edit_profile">ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ</string>
+    <string name="save_profile">ಪ್ರೊಫೈಲ್ ಉಳಿಸಿ</string>
+    <string name="available_hours">ಲಭ್ಯ ಸಮಯ</string>
+    <string name="contact">ಸಂಪರ್ಕ</string>
+    <string name="no_results">ಈ ಆಯ್ಕೆಗೆ ಗುರುಗಳು ಸಿಗಲಿಲ್ಲ.</string>
+</resources>

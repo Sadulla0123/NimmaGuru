@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nimma-Guru</string>
+    <string name="tagline">Community mentorship for Gyaan-Daan</string>
+    <string name="language_toggle">ಕನ್ನಡ</string>
+    <string name="directory">Guru Directory</string>
+    <string name="search_hint">Village or street</string>
+    <string name="wall_of_fame">Wall of Fame</string>
+    <string name="class_calendar">Class Calendar</string>
+    <string name="appreciation_wall">Appreciation Wall</string>
+    <string name="post_appreciation">Post Appreciation</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="available_hours">Available hours</string>
+    <string name="contact">Contact</string>
+    <string name="no_results">No Gurus found for this filter.</string>
+</resources>
